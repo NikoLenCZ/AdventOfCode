@@ -11,3 +11,6 @@ yarn-error.log
 
 #inputs
 *.txt
+/*.txt
+input.txt
+/input.txt
